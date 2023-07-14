@@ -7,7 +7,7 @@ In a nutshell: For a computer accessory company we need to analyse various datas
 `orderlines` --> contains all the different articles in the orders
 `products` --> contains all products in the company's portfolio
 
-After the analysis of the data we were asked to answer the following questions@
+After the analysis of the data we were asked to answer the following questions:
 
 * How should products be classified into different categories to simplify reports and analysis?
 * What is the distribution of product prices across different categories?
@@ -31,5 +31,7 @@ These stepps are documented in the following notebooks:
 4. --> `Project_Data_Cleaning_Storytelling_Part_4_Further_Explration.ipynb`
 
 There is also a long version of the above mentioned notebooks --> `Project_Data_Cleaning_Storytelling_Part_4_Further_Explration.ipynb`
+
+To conclude the project I aslo prepared a short presentation --> `Group 1 - Project 3.pdf`
 
 
