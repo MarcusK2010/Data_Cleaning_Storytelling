@@ -23,7 +23,7 @@ To Answer these questions I did the following:
 3. Discount Analysis & Product Categorisation
 4. Further Data Exploration
 
-These stepps are documented in the following notebooks:
+These steps are documented and coded in the following notebooks (in folder /`Notebooks`):
 
 1. --> `Project_Data_Cleaning_Storytelling_Part_1_Overview_Data_Cleaing.ipynb`
 2. --> `Project_Data_Cleaning_Storytelling_Part_2_Data_Quality_Data_Analysis.ipynb`
@@ -32,6 +32,6 @@ These stepps are documented in the following notebooks:
 
 There is also a long version of the above mentioned notebooks --> `Project_Data_Cleaning_Storytelling_Part_4_Further_Explration.ipynb`
 
-To conclude the project I aslo prepared a short presentation --> `Group 1 - Project 3.pdf`
+To conclude the project I aslo prepared a short presentation --> `Group 1 - Project 3.pdf` (to be found in folder /`Presentation`)
 
 
