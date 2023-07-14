@@ -25,10 +25,10 @@ To Answer these questions I did the following:
 
 These stepps are documented in the following notebooks:
 
-`1.` --> `Project_Data_Cleaning_Storytelling_Part_1_Overview_Data_Cleaing.ipynb`
-`2.` --> `Project_Data_Cleaning_Storytelling_Part_2_Data_Quality_Data_Analysis.ipynb`
-`3.` --> `Project_Data_Cleaning_Storytelling_Part_3_Discount_Analysis_Product_Categorisation.ipynb`
-`4.` --> `Project_Data_Cleaning_Storytelling_Part_4_Further_Explration.ipynb`
+1. --> `Project_Data_Cleaning_Storytelling_Part_1_Overview_Data_Cleaing.ipynb`
+2. --> `Project_Data_Cleaning_Storytelling_Part_2_Data_Quality_Data_Analysis.ipynb`
+3. --> `Project_Data_Cleaning_Storytelling_Part_3_Discount_Analysis_Product_Categorisation.ipynb`
+4. --> `Project_Data_Cleaning_Storytelling_Part_4_Further_Explration.ipynb`
 
 There is also a long version of the above mentioned notebooks --> `Project_Data_Cleaning_Storytelling_Part_4_Further_Explration.ipynb`
 
